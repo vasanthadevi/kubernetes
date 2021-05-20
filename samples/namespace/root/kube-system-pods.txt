@@ -1,0 +1,13 @@
+NAME                                 READY   STATUS    RESTARTS   AGE
+coredns-558bd4d5db-c8cn6             1/1     Running   0          24d
+coredns-558bd4d5db-cqlhc             1/1     Running   0          24d
+etcd-kubemaster                      1/1     Running   0          24d
+kube-apiserver-kubemaster            1/1     Running   0          24d
+kube-controller-manager-kubemaster   1/1     Running   1          24d
+kube-proxy-b24rg                     1/1     Running   0          24d
+kube-proxy-sxj75                     1/1     Running   0          24d
+kube-proxy-vjf97                     1/1     Running   0          24d
+kube-scheduler-kubemaster            1/1     Running   0          24d
+weave-net-2z5bd                      2/2     Running   1          24d
+weave-net-t58lf                      2/2     Running   1          24d
+weave-net-t6gqd                      2/2     Running   1          24d
