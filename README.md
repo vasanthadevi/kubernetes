@@ -1,5 +1,11 @@
 # kubernetes
 
+This git repository has the samples that I had tried out for kubernetes.
+
+
+## Samples
+[Simplest pod](samples/pod/firstPod.yml)
+
 
 
 
